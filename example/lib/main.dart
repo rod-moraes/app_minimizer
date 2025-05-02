@@ -1,5 +1,5 @@
-import 'package:app_minimizer/flutter_app_minimizer.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_app_minimizer/flutter_app_minimizer.dart';
 
 void main() {
   runApp(const MyApp());
